@@ -1,0 +1,1 @@
+Canli CSV okuyan inbound dashboard. Haftalik guncellemede Dashboard.csv ve dashboard.csv degistirmeniz yeterlidir.
